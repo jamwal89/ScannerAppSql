@@ -1,0 +1,11 @@
+comp|Select * from Company|
+state|Select * from states|
+State|Select * from States|
+comp|Select * from Company|
+states|Select * from States|
+comp|select * from COmpany|
+il|Select * from States where State='IL'|
+|no
+nh|no
+id|Select State_Id from States
+na|select 

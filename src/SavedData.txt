@@ -1,0 +1,1 @@
+comp|Select * from Company
